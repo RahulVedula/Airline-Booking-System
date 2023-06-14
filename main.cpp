@@ -81,7 +81,7 @@ int main() {
         int header_x = (screen_width - header.length()) / 2;
         mvwprintw(main_win, 1, header_x, header.c_str());
 
-        // Display the options
+        // Display the options for each switch case
         std::string options[] = {
             "1. Create new customer",
             "2. Add Flight",
