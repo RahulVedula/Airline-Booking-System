@@ -6,10 +6,6 @@
 #pragma once
 using namespace std;
 
-//    Delete Existing Flight
-//    Reschedule Flight
-//    Book New Flight
-//    Change Seat
 
 //ID Check
 	bool Customer::isValidId(string id){
