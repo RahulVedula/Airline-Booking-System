@@ -4,7 +4,6 @@
 #pragma once
 using namespace std;
 
-//Student database copy 
 
 class Customer: public User{
 private:
